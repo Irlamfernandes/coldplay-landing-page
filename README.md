@@ -4,6 +4,8 @@ Landing page sobre a banda **Coldplay**, desenvolvida como atividade de faculdad
 
 O desafio era criar uma página para uma banda usando apenas **HTML e CSS**. Todo o código foi escrito à mão, sem frameworks, bibliotecas ou ferramentas de IA.
 
+🔗 **Acesse:** [irlamfernandes.github.io/coldplay-landing-page](https://irlamfernandes.github.io/coldplay-landing-page/)
+
 ## Seções da página
 
 - **Biografia**: a história da banda, da formação em Londres até os dias de hoje
@@ -20,7 +22,7 @@ O desafio era criar uma página para uma banda usando apenas **HTML e CSS**. Tod
 
 ## Como executar
 
-Não precisa instalar nada:
+Acesse o link acima ou rode localmente, sem instalar nada:
 
 ```bash
 git clone https://github.com/Irlamfernandes/coldplay-landing-page.git
